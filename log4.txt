@@ -1,0 +1,136 @@
+2022/12/23 12:56:54 démarrage du serveur...
+2022/12/23 12:56:54 ----- Jour 0 -----
+2022/12/23 12:56:54 Demande de création d'un hôtel
+2022/12/23 12:56:54   ↪   L'hôtel 1 a été créé avec 3 3 2 [{0 4 80 0} {1 6 160 0} {2 6 80 0} {3 8 80 0} {4 2 140 0} {5 4 120 0} {6 2 120 0} {7 8 80 0} {8 8 80 0} {9 6 80 0} {10 6 100 0} {11 6 140 0} {12 6 120 0} {13 8 100 0} {14 2 80 0} {15 2 160 0} {16 8 160 0} {17 6 120 0} {18 6 100 0} {19 6 120 0}] []
+2022/12/23 12:56:54   ↪   La chambre 0 a été créé avec 4 0
+2022/12/23 12:56:54   ↪   La chambre 1 a été créé avec 6 0
+2022/12/23 12:56:54   ↪   La chambre 2 a été créé avec 6 0
+2022/12/23 12:56:54   ↪   La chambre 3 a été créé avec 8 0
+2022/12/23 12:56:54   ↪   La chambre 4 a été créé avec 2 0
+2022/12/23 12:56:54   ↪   La chambre 5 a été créé avec 4 0
+2022/12/23 12:56:54   ↪   La chambre 6 a été créé avec 2 0
+2022/12/23 12:56:54   ↪   La chambre 7 a été créé avec 8 0
+2022/12/23 12:56:54   ↪   La chambre 8 a été créé avec 8 0
+2022/12/23 12:56:54   ↪   La chambre 9 a été créé avec 6 0
+2022/12/23 12:56:54   ↪   La chambre 10 a été créé avec 6 0
+2022/12/23 12:56:54   ↪   La chambre 11 a été créé avec 6 0
+2022/12/23 12:56:54   ↪   La chambre 12 a été créé avec 6 0
+2022/12/23 12:56:54   ↪   La chambre 13 a été créé avec 8 0
+2022/12/23 12:56:54   ↪   La chambre 14 a été créé avec 2 0
+2022/12/23 12:56:54   ↪   La chambre 15 a été créé avec 2 0
+2022/12/23 12:56:54   ↪   La chambre 16 a été créé avec 8 0
+2022/12/23 12:56:54   ↪   La chambre 17 a été créé avec 6 0
+2022/12/23 12:56:54   ↪   La chambre 18 a été créé avec 6 0
+2022/12/23 12:56:54   ↪   La chambre 19 a été créé avec 6 0
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl1 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [6 5 3 2 4] et avec le shift  0 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl2 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [2 5 3 4 6] et avec le shift  2 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl3 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [1 6 0 3 4] et avec le shift  0 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl4 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [3 1 4 5 2] et avec le shift  2 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl5 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [5 0 3 2 1] et avec le shift  0 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl6 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [4 3 2 5 0] et avec le shift  0 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl7 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [2 3 4 0 1] et avec le shift  0 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl8 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [1 2 0 4 6] et avec le shift  2 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl9 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [6 2 5 1 0] et avec le shift  2 1
+2022/12/23 12:56:54 Demande de création d'un employé de ménage
+2022/12/23 12:56:54   ↪   L'employé de ménage empl10 a été créé avec un salaire de 2000 euros, et avec l'emploi du temps  [6 1 2 4 0] et avec le shift  1 1
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl11 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [3 6 0 2 5] et avec le shift,  1 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl12 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [6 4 0 5 3] et avec le shift,  2 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl13 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [2 0 6 5 1] et avec le shift,  0 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl14 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [1 5 3 4 0] et avec le shift,  1 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl15 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [5 1 6 0 4] et avec le shift,  1 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl16 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [2 1 4 3 6] et avec le shift,  1 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl17 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [0 2 3 6 4] et avec le shift,  2 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl18 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [2 4 6 0 3] et avec le shift,  2 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl19 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [1 5 3 4 2] et avec le shift,  1 0
+2022/12/23 12:56:54 Demande de création d'un réceptionniste
+2022/12/23 12:56:54   ↪   Le réceptionniste empl20 a été créé avec un salaire de 1750 euros, et avec l'emploi du temps  [0 1 2 6 3] et avec le shift,  0 0
+2022/12/23 12:56:55 
+2022/12/23 12:56:55 Je suis empl20 Luke Skywalker et je m'occupe de clt1
+2022/12/23 12:56:55   ↪   Je propose [{16 8 160 0} {15 2 160 0} {1 6 160 0} {4 2 140 0} {11 6 140 0}]
+2022/12/23 12:56:55 
+2022/12/23 12:56:55 Je suis empl13 Luke Skywalker et je m'occupe de clt2
+2022/12/23 12:56:55   ↪   Je propose [{14 2 80 0} {16 8 160 0} {4 2 140 0} {6 2 120 0} {1 6 160 0}]
+2022/12/23 12:56:56 Je suis clt2 j'ai choisis [14 6 4]
+2022/12/23 12:56:56 Fin de la demande de réservation clt2
+2022/12/23 12:56:56 
+2022/12/23 12:56:56 Je suis empl13 Luke Skywalker et je m'occupe de clt3
+2022/12/23 12:56:56   ↪   Je propose [{16 8 160 0} {3 8 80 0} {7 8 80 0} {1 6 160 0} {12 6 120 0}]
+2022/12/23 12:56:56 Je suis clt3 j'ai choisis [3 7 12 16 1]
+2022/12/23 12:56:56 Fin de la demande de réservation clt3
+2022/12/23 12:56:56 
+2022/12/23 12:56:56 Je suis empl20 Luke Skywalker et je m'occupe de clt4
+2022/12/23 12:56:56   ↪   Je propose [{1 6 160 0} {16 8 160 0} {15 2 160 0} {11 6 140 0} {4 2 140 0}]
+2022/12/23 12:56:57 
+2022/12/23 12:56:57 Je suis empl13 Luke Skywalker et je m'occupe de clt5
+2022/12/23 12:56:57   ↪   Je propose [{18 6 100 0} {3 8 80 0} {0 4 80 0} {12 6 120 0} {13 8 100 0}]
+2022/12/23 12:56:57 Je suis clt5 j'ai choisis [3 0 18 13 12]
+2022/12/23 12:56:57 Fin de la demande de réservation clt5
+2022/12/23 12:56:57 
+2022/12/23 12:56:57 Je suis empl13 Luke Skywalker et je m'occupe de clt6
+2022/12/23 12:56:57   ↪   Je propose [{11 6 140 0} {2 6 80 0} {14 2 80 0} {8 8 80 0} {15 2 160 0}]
+2022/12/23 12:56:58 Je suis clt6 j'ai choisis [8 2 14]
+2022/12/23 12:56:58 Fin de la demande de réservation clt6
+2022/12/23 12:56:58 
+2022/12/23 12:56:58 Je suis empl13 Luke Skywalker et je m'occupe de clt7
+2022/12/23 12:56:58   ↪   Je propose [{19 6 120 0} {6 2 120 0} {14 2 80 0} {11 6 140 0} {15 2 160 0}]
+2022/12/23 12:56:58 Je suis clt7 j'ai choisis [14 19 6 11 15]
+2022/12/23 12:56:58 Fin de la demande de réservation clt7
+2022/12/23 12:56:58 
+2022/12/23 12:56:58 J'ai reçu la validation pour la chambre : {[14 19 6 11 15] {clt7 1 1 5 8 0}}
+2022/12/23 12:56:58 La chambre {14 2 80 0} a bien été réservé pour clt7
+2022/12/23 12:56:58 
+2022/12/23 12:56:58 Je suis empl11 Luke Skywalker et je m'occupe de clt8
+2022/12/23 12:56:58   ↪   Je propose [{6 2 120 0} {15 2 160 0} {4 2 140 0} {5 4 120 0} {0 4 80 0}]
+2022/12/23 12:56:59 Je suis clt8 j'ai choisis [6 4 5 0]
+2022/12/23 12:56:59 Fin de la demande de réservation clt8
+2022/12/23 12:56:59 
+2022/12/23 12:56:59 Je suis empl11 Luke Skywalker et je m'occupe de clt9
+2022/12/23 12:56:59   ↪   Je propose [{15 2 160 0} {4 2 140 0} {6 2 120 0} {0 4 80 0} {5 4 120 0}]
+2022/12/23 12:56:59 Je suis clt9 j'ai choisis [0 6 5]
+2022/12/23 12:56:59 Fin de la demande de réservation clt9
+2022/12/23 12:56:59 
+2022/12/23 12:56:59 Je suis empl11 Luke Skywalker et je m'occupe de clt10
+2022/12/23 12:56:59   ↪   Je propose [{4 2 140 0} {6 2 120 0} {15 2 160 0} {5 4 120 0} {0 4 80 0}]
+2022/12/23 12:57:00 Je suis clt10 j'ai choisis [0]
+2022/12/23 12:57:00 Fin de la demande de réservation clt10
+2022/12/23 12:57:00 
+2022/12/23 12:57:00 Je suis empl14 Luke Skywalker et je m'occupe de clt11
+2022/12/23 12:57:00   ↪   Je propose [{17 6 120 0} {19 6 120 0} {3 8 80 0} {10 6 100 0} {2 6 80 0}]
+2022/12/23 12:57:00 Je suis clt11 j'ai choisis [3 10 2]
+2022/12/23 12:57:00 Fin de la demande de réservation clt11
+2022/12/23 12:57:00 
+2022/12/23 12:57:00 Je suis empl11 Luke Skywalker et je m'occupe de clt12
+2022/12/23 12:57:00   ↪   Je propose [{6 2 120 0} {15 2 160 0} {4 2 140 0} {5 4 120 0} {0 4 80 0}]
+2022/12/23 12:57:01 Je suis clt12 j'ai choisis [0]
+2022/12/23 12:57:01 Fin de la demande de réservation clt12
+2022/12/23 12:57:01 
+2022/12/23 12:57:01 Je suis empl14 Luke Skywalker et je m'occupe de clt13
+2022/12/23 12:57:01   ↪   Je propose [{7 8 80 0} {9 6 80 0} {10 6 100 0} {12 6 120 0} {17 6 120 0}]
+2022/12/23 12:57:01 Je suis clt13 j'ai choisis [9 10 12 17 7]
+2022/12/23 12:57:01 Fin de la demande de réservation clt13
+2022/12/23 12:57:01 
+2022/12/23 12:57:01 Je suis empl15 Luke Skywalker et je m'occupe de clt14
+2022/12/23 12:57:01   ↪   Je propose [{6 2 120 0} {4 2 140 0} {15 2 160 0} {5 4 120 0} {0 4 80 0}]
+2022/12/23 12:57:02 
+2022/12/23 12:57:02 Je suis empl11 Luke Skywalker et je m'occupe de clt15
+2022/12/23 12:57:02 Je suis clt14 j'ai choisis [0 6 5 4]
+2022/12/23 12:57:02   ↪   Je propose [{6 2 120 0} {4 2 140 0} {15 2 160 0} {0 4 80 0} {5 4 120 0}]
+2022/12/23 12:57:02 Fin de la demande de réservation clt14
